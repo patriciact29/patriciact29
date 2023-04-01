@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola 👋, Mi nombre el *Patricia*
+
+Mi experiencia en el contacto directo con los usuarios me permitió desarrollar mi empatía y encontrar soluciones óptimas a sus necesidades✨. Busco aplicar mis habilidades y conocimientos en la programación web para solucionar problemas y mejorar la vida de las personas a través de la tecnología.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/patriciact29//)  
 
 <!--
 **patriciact29/patriciact29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
