@@ -1,10 +1,11 @@
 ### Hola 👋, Mi nombre es **Patricia**
 <p align="center">
 <img src="https://user-images.githubusercontent.com/118831504/229262355-87314d70-c001-4593-9458-5a8116254571.gif" alt="portada-Patricia" width="900" height="400"></p>
-Mi experiencia en el contacto directo con los usuarios me permitió desarrollar mi empatía y encontrar soluciones óptimas a sus necesidades✨. Busco aplicar mis habilidades y conocimientos en la programación web para solucionar problemas y mejorar la vida de las personas a través de la tecnología.
 
-[<img src='https://user-images.githubusercontent.com/118831504/229262127-d261522b-bb71-4a95-bb74-f8ef50570fb8.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/patriciact29//)  
+#### Mi experiencia en el contacto directo con los usuarios me permitió desarrollar mi empatía y encontrar soluciones óptimas a sus necesidades✨. Busco aplicar mis habilidades y conocimientos en la programación web para solucionar problemas y mejorar la vida de las personas a través de la tecnología.
 
+
+[<img src='https://user-images.githubusercontent.com/118831504/229262127-d261522b-bb71-4a95-bb74-f8ef50570fb8.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/patriciact29//)  [<img src='https://user-images.githubusercontent.com/118831504/229262989-79b14efa-1980-4325-a311-9cdf22bb5025.png' alt='gmail' height='30'>](mailto:patricia.ct29@gmail.com)  
 
 
 <!--
