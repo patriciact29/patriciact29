@@ -1,15 +1,19 @@
 ### Hola 👋 Mi nombre es **Patricia**
 ---
 <p align="center">
-<img src="https://github.com/patriciact29/patriciact29/assets/118831504/bad8a7cf-cc08-4c43-8631-aa8dd017f055" alt="portada-Patricia" width="1000" height="350"></p>
+<img src="https://github.com/patriciact29/patriciact29/assets/118831504/b56b12e7-adb6-496c-aec3-1d885778fbb0" alt="portada-Patricia" width="990" height="320"></p>
 
+
+Sobre mi
+--
 Mi experiencia en el contacto directo con los usuarios me permitió desarrollar mi empatía y encontrar soluciones óptimas a sus necesidades✨. Busco aplicar mis habilidades y conocimientos en la programación web para solucionar problemas y mejorar la vida de las personas a través de la tecnología.
 
-#### Contáctame
-
+Contáctame
+--
 [<img src='https://user-images.githubusercontent.com/118831504/229262127-d261522b-bb71-4a95-bb74-f8ef50570fb8.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/patriciact29//) [<img src='https://user-images.githubusercontent.com/118831504/229262989-79b14efa-1980-4325-a311-9cdf22bb5025.png' alt='gmail' height='30'>](mailto:patricia.ct29@gmail.com)  
 
-#### Lenguajes y tecnologias
+Lenguajes y tecnologias
+--
 [<img src='https://github.com/patriciact29/patriciact29/assets/118831504/bff73690-8bfd-4287-91ed-4ec17252ef14' height='35'>](https://github.com/patriciact29) 
 [<img src='https://github.com/patriciact29/patriciact29/assets/118831504/4bd53517-d72d-4af1-8252-7cfa50683346' height='35' >](https://github.com/patriciact29)
 [<img src='https://github.com/patriciact29/patriciact29/assets/118831504/35d65384-9a8a-4ee2-b63d-6bf4f47b8e81' height='35'>](https://github.com/patriciact29)
