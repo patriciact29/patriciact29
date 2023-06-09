@@ -1,8 +1,7 @@
 ### Hola 👋 Mi nombre es **Patricia**
 ---
 <p align="center">
-<img src="https://github.com/patriciact29/patriciact29/assets/118831504/b56b12e7-adb6-496c-aec3-1d885778fbb0" alt="portada-Patricia" width="990" height="320"></p>
-
+<img src="https://github.com/patriciact29/patriciact29/assets/118831504/ff41e352-9964-435e-9e61-6d8aeaa35255" alt="portada-Patricia" width="990" height="320"></p>
 
 Sobre mi
 --
